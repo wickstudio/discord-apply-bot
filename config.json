@@ -1,0 +1,59 @@
+{
+  "TOKEN": "التوكن",
+  "APPLY": {
+    "GANGS": {
+      "NAME": "القسم الاول",
+      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "DATA": [
+        {
+          "name": "تقديم 1",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        },
+        {
+          "name": "تقديم 2",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        }
+      ]
+    },
+    "GOV": {
+      "NAME": "القسم الثاني",
+      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "DATA": [
+        {
+          "name": "تقديم 1",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        },
+        {
+          "name": "تقديم 2",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        }
+      ]
+    },
+    "MOD": {
+      "NAME": "القسم الثالث",
+      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "DATA": [
+        {
+          "name": "تقديم 1",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        },
+        {
+          "name": "تقديم 2",
+          "emoji": "ايموجي",
+          "CHANNEL": "ايدي_الروم",
+          "role": "ايدي_الرتبة"
+        }
+      ]
+    }
+  }
+}
